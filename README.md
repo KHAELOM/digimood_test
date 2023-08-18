@@ -1,1 +1,1 @@
-# digimood_test
+# digimd
